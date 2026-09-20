@@ -1,0 +1,3 @@
+# build outputs only
+*.log
+.DS_Store
