@@ -4,7 +4,7 @@
 
 ## 下载
 
-最新版：**v2.5.5** — [APK 直链](https://cdn.jsdelivr.net/gh/teslawei/dsh-remote-dist@v2.5.5/apk/DSH-Remote-Direct-v2.5.5.apk)（全球 CDN，GitHub Releases 见右侧）
+最新版：**v2.6.1** — [APK 直链](https://cdn.jsdelivr.net/gh/teslawei/dsh-remote-dist@main/apk/DSH-Remote-Direct-v2.6.1.apk)（全球 CDN，GitHub Releases 见右侧）
 
 ## 功能速览
 
